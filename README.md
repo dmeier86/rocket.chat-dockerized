@@ -55,4 +55,5 @@ and delete them to via
 [http://fuzzyblog.io/blog/docker/2017/06/25/docker-tutorial-understanding-container-memory-usage.html](http://fuzzyblog.io/blog/docker/2017/06/25/docker-tutorial-understanding-container-memory-usage.html)
 
 ## contribute
-please feel free to contribute. If there's any info missing or you've found out something new, please feel free to contribute to my stuff  ![](https://img.icons8.com/metro/1600/like.png=15x15)
+please feel free to contribute. If there's any info missing or you've found out something new, please feel free to contribute to my stuff
+![](https://img.icons8.com/metro/1600/like.png=15x15)
